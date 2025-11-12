@@ -1,0 +1,1 @@
+slop generator internals
